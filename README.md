@@ -14,3 +14,9 @@ Segunda estructura de datos vista en clase, se tocan los comandos relacionados a
 La carpeta grafos toca diferentes temas relacionados a dicha estructura.
 
 ## Representaciones
+
+Se puede encontrar las dos principales representaciones vistas en clase: matricial y lista de listas. En cada uno de los archivos se ve el codigo para llegar a cada representacion desde un input definido.
+
+## Algoritmos
+
+Se puede encontrar los dos principales algoritmos vistos en clase: BFS y DFS. En ambos casos podemos encontrar el codigo de cada uno, ademas de una pequeña explicacion para comprender mejor como se comporta cada uno 
